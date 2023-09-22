@@ -1,0 +1,1029 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-transform: capitalize;
+  transition: all .2s ease-out;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 63%;
+  overflow-x: hidden;
+  scroll-padding-top: 3rem;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #efdccf;
+}
+
+
+.desktop-2,
+.desktop-2 * {
+  box-sizing: border-box;
+  width: 100%;
+  align-items: center;
+
+}
+.desktop-2 {
+  padding-left: 30%;
+  height: 985px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+}
+.rectangle-8 {
+  background: #f5e7e7;
+  width: 100%;
+  height: 985px;
+  position: absolute;
+  left: 0px;
+  top: 6.87px;
+}
+.classes {
+  color: #000000;
+  text-align: left;
+  font: 400 17px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 743px;
+  top: 23.26px;
+  width: 100%px;
+  height: 59.67px;
+}
+.testimonials {
+  color: #000000;
+  text-align: left;
+  font: 400 17px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 846px;
+  top: 23px;
+  width: 100%;
+  height: 59.67px;
+}
+.contact-us {
+  color: #000000;
+  text-align: left;
+  font: 400 17px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 976px;
+  top: 23px;
+  width: 100%;
+  height: 59.67px;
+}
+.ellipse-1 {
+  background: #f7eff5;
+  border-radius: 50%;
+  width: 40%;
+  height: 698px;
+  position: absolute;
+  left: 370px;
+  top: 186px;
+}
+.discover-the-power-of-yoga-and-unlock-your-potential-ignite-your-inner-light-and-embrace-serenity {
+  color: #000000;
+  text-align: left;
+  font: 457 20px/19px "Poppins", sans-serif;
+  position: absolute;
+  left: 165px;
+  top: 541.04px;
+  width: 100%;
+  height: 103.15px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  letter-spacing: 1px;
+}
+.rectangle-10 {
+  background: #dc8749;
+  border-radius: 25px;
+  width: 202px;
+  height: 52px;
+  position: absolute;
+  left: 165px;
+  top: 685px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.join-class-today {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px/15px "Poppins", sans-serif;
+  position: absolute;
+  left: 192px;
+  top: 704px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.learn-more1 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px/15px "Poppins", sans-serif;
+  position: absolute;
+  left: 400px;
+  top: 705px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._104498-facebook-icon-1 {
+  width: 17.65px;
+  height: 20px;
+  position: absolute;
+  left: 1277px;
+  top: 586px;
+}
+.icons-8-twitter-32-1 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 1277px;
+  top: 628px;
+}
+.instagram-1384031-1 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 1277px;
+  top: 670px;
+}
+.icons-8-youtube-64-1 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 1277px;
+  top: 714px;
+}
+.bigstock-beautiful-young-red-head-woman-226944661-removebg-1 {
+  width: 1200px;
+  height: 809px;
+  position: absolute;
+  left: 10px;
+  top: 145px;
+}
+.about-us {
+  color: #000000;
+  text-align: left;
+  font: 400 17px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 618px;
+  top: 23.26px;
+  width: 104px;
+  height: 59.67px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font: 400 17px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 511px;
+  top: 23px;
+  width: 59px;
+}
+.millie-yoga {
+  color: #000000;
+  text-align: center;
+  font: var(--millie-yoga, 700 26px/61px "Poppins", sans-serif);
+  position: absolute;
+  left: 137px;
+  top: 23px;
+  width: 173px;
+  height: 36px;
+
+}
+.rectangle-9 {
+  background: #f2d0bd;
+  border-radius: 20px;
+  width: 166px;
+  height: 49px;
+  position: absolute;
+  left: 1117px;
+  top: 37px;
+}
+._1-123-456-78-90 {
+  color: rgba(0, 0, 0, 0.7);
+  text-align: left;
+  font: 400 17px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 1134px;
+  top: 31px;
+}
+.yoga-studio {
+  color: #000000;
+  text-align: left;
+  font: 400 96px/80px "PT Serif", sans-serif;
+  position: absolute;
+  left: 165px;
+  top: 335px;
+}
+/* .desktop-3,
+.desktop-3 * {
+  box-sizing: border-box;
+  width: 100%;
+} */
+.desktop-3 {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  background: #ffffff;
+  height: 1011px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-11 {
+  background: #eee2e2;
+  width: 100%;
+  height: 1011px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.many-styles-of-yoga-to-suit-everyone {
+  color: #000000;
+  text-align: left;
+  font: 400 45px/62px "PT Serif", sans-serif;
+  position: absolute;
+  left: 65px;
+  top: 78px;
+  width: 500px;
+  height: 119px;
+}
+.morbi-lobortis-morbi-dignissim-sodales-eget-mauris-turpis-interdum-sagittis-sed-cursus-nunc-nulla-congue-quis {
+  color: #000000;
+  text-align: left;
+  font: 400 17px/20px "Poppins", sans-serif;
+  position: absolute;
+  left: 65px;
+  top: 235px;
+}
+.rectangle-13 {
+  background: #eee2e2;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #d26b22;
+  border-width: 3px;
+  width: 207px;
+  height: 76px;
+  position: absolute;
+  left: 79px;
+  top: 370px;
+}
+.learn-more {
+  color: #000000;
+  text-align: left;
+  font: var(--para-1, 400 20px/61px "Poppins", sans-serif);
+  position: absolute;
+  left: 127px;
+  top: 378px;
+}
+.eu-gostoc-nunc-congue-et-morie-cod-venenatis-at-volutpat-gravida-eros {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/20px "Poppins", sans-serif;
+  position: absolute;
+  left: 642px;
+  top: 134px;
+  width: 256px;
+}
+.eu-gostoc-nunc-congue-et-morie-cod-venenatis-at-volutpat-gravida-eros2 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/20px "Poppins", sans-serif;
+  position: absolute;
+  left: 643px;
+  top: 567px;
+}
+.eu-gostoc-nunc-congue-et-morie-cod-venenatis-at-volutpat-gravida-eros3 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/20px "Poppins", sans-serif;
+  position: absolute;
+  left: 642px;
+  top: 776px;
+}
+.eu-gostoc-nunc-congue-et-morie-cod-venenatis-at-volutpat-gravida-eros4 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/20px "Poppins", sans-serif;
+  position: absolute;
+  left: 642px;
+  top: 346px;
+}
+.eu-gostoc-nunc-congue-et-morie-cod-venenatis-at-volutpat-gravida-eros5 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/20px "Poppins", sans-serif;
+  position: absolute;
+  left: 1014px;
+  top: 131px;
+}
+.eu-gostoc-nunc-congue-et-morie-cod-venenatis-at-volutpat-gravida-eros6 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/20px "Poppins", sans-serif;
+  position: absolute;
+  left: 1011px;
+  top: 346px;
+}
+.eu-gostoc-nunc-congue-et-morie-cod-venenatis-at-volutpat-gravida-eros7 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/20px "Poppins", sans-serif;
+  position: absolute;
+  left: 1008px;
+  top: 561px;
+}
+.eu-gostoc-nunc-congue-et-morie-cod-venenatis-at-volutpat-gravida-eros8 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/20px "Poppins", sans-serif;
+  position: absolute;
+  left: 1005px;
+  top: 776px;
+}
+.anusara {
+  color: #000000;
+  text-align: left;
+  font: 400 21px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 641px;
+  top: 73px;
+}
+.bikram {
+  color: #000000;
+  text-align: left;
+  font: 400 21px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 642px;
+  top: 506px;
+}
+.hatha {
+  color: #000000;
+  text-align: left;
+  font: 400 21px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 641px;
+  top: 715px;
+}
+.ashtanga {
+  color: #000000;
+  text-align: left;
+  font: 400 21px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 641px;
+  top: 285px;
+}
+.hot-yoga {
+  color: #000000;
+  text-align: left;
+  font: 400 21px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 1013px;
+  top: 70px;
+}
+.iyengar {
+  color: #000000;
+  text-align: left;
+  font: 400 21px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 1010px;
+  top: 285px;
+}
+.restorative {
+  color: #000000;
+  text-align: left;
+  font: 400 21px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 1007px;
+  top: 500px;
+}
+.vinyasa {
+  color: #000000;
+  text-align: left;
+  font: 400 21px/61px "Poppins", sans-serif;
+  position: absolute;
+  left: 1004px;
+  top: 715px;
+}
+
+.desktop-4-child {
+  position: relative;
+  background-color: var(--color-antiquewhite);
+  border: 1px solid var(--color-antiquewhite);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 1069px;
+  z-index: 0;
+}
+.yoga-studio-in {
+  margin-block-start: 0;
+  margin-block-end: 7px;
+}
+.city-of-new {
+  margin: 0;
+}
+.yoga-studio-in-container {
+  text-align: center;
+  top: 666px;
+  left: 64px;
+  font-size: var(--font-size-35xl);
+  line-height: 62px;
+  font-family: var(--font-pt-serif);
+  z-index: 1;
+}
+.desktop-4-item,
+.our-studio,
+.yoga-studio-in-container {
+  position: absolute;
+  margin: 0 !important;
+}
+.our-studio {
+  top: 610px;
+  left: 64px;
+  font-size: var(--para1-size);
+  letter-spacing: 0.2em;
+  line-height: 20px;
+  color: var(--color-chocolate);
+  z-index: 2;
+}
+.desktop-4-item {
+  height: 49.76%;
+  width: 90.83%;
+  top: 0.19%;
+  right: 4.58%;
+  bottom: 50.05%;
+  left: 4.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 3;
+}
+.commodo-eu-hendrerit {
+  margin-block-start: 0;
+  margin-block-end: 15px;
+}
+.commodo-eu-hendrerit-container,
+.commodo-eu-hendrerit-container1 {
+  position: absolute;
+  margin: 0 !important;
+  top: 666px;
+  left: 660px;
+  line-height: 20px;
+  z-index: 4;
+}
+.commodo-eu-hendrerit-container1 {
+  top: 803px;
+  z-index: 5;
+}
+.th-avenue-new {
+  top: 827px;
+  left: 75px;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2em;
+  line-height: 20px;
+  font-weight: 600;
+  z-index: 6;
+}
+.desktop-4-inner,
+.find-us-on,
+.th-avenue-new {
+  position: absolute;
+  margin: 0 !important;
+}
+.desktop-4-inner {
+  top: 877px;
+  left: 64px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-antiquewhite);
+  border: 3px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 215px;
+  height: 55px;
+  z-index: 7;
+}
+.find-us-on {
+  top: 893px;
+  left: 93px;
+  font-size: var(--font-size-lg);
+  line-height: 20px;
+  z-index: 8;
+}
+.destination-1-icon,
+.icons8-play-button-50-1 {
+  position: absolute;
+  margin: 0 !important;
+  top: 894px;
+  left: 241px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+  z-index: 9;
+}
+.icons8-play-button-50-1 {
+  top: 223px;
+  left: 675px;
+  width: 90px;
+  height: 90px;
+  z-index: 10;
+}
+.icon-map-marker {
+  position: absolute;
+  margin: 0 !important;
+  height: 1.4%;
+  width: 0.9%;
+  top: 77.36%;
+  right: 96.11%;
+  bottom: 21.23%;
+  left: 2.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 11;
+}
+.desktop-4 {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+  font-family: var(--millie-yoga);
+}
+
+
+
+.desktop-5 {
+  background: #eee2e2;
+  width: 100%;
+  padding-bottom: 7%;
+  padding-top: 2%;
+  text-align: center;
+}
+
+.desktop-5 h4 {
+  color: #0b0b0b;
+  text-align: center;
+  font: 400 40px 'Poppins', sans-serif;
+}
+
+.desktop-5 .instructors {
+  display: flex;
+  align-items: center;
+  padding-left: 18%;
+  padding-right: 100%;
+  padding-top: 20px;
+}
+
+.desktop-5 ul img {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 25px;
+}
+
+.desktop-5 h3 {
+  color: #000000;
+  padding: 5px;
+  ;
+  text-align: center;
+  font: 20px 'PT Serif', sans-serif;
+  margin-top: 20px;
+}
+
+.jessica {
+  background: #FF965BA1;
+  width: 100%;
+  padding: 90px;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.jessica .imagej {
+  margin-left: 100px;
+}
+
+.jessica .page {
+  max-width: 900px;
+}
+
+.jessica .page h2 {
+  color: #f9f7f6;
+  text-align: left;
+  font: 600 20px 'Poppins', sans-serif;
+}
+
+.jessica .page h1 {
+  color: #0f0500;
+  text-align: left;
+  margin-top: 10px;
+  font: 400 36px 'PT serif', sans-serif;
+}
+
+.jessica .page i {
+  text-align: left;
+  color: #fcfeff;
+  margin-top: 25px;
+  position: relative;
+  overflow: visible;
+}
+
+.jessica .page p {
+  color: #080808;
+  text-align: left;
+  margin-top: 30px;
+  margin-right: 100px;
+  font: 500 24px 'Neuton', sans-serif
+}
+
+.jessica .page h3 {
+  display: inline-block;
+  text-align: end;
+  padding: 50px;
+  margin-top: 15px;
+  font: 500 24px 'Poppins', sans-serif;
+}
+
+.desktop-6 {
+  background: #fcfeff;
+  width: 100%;
+  padding: 70px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.desktop-6 .logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: wrap;
+  margin-top: 20px;
+}
+
+.desktop-6 .logo h4 {
+  color: #d26b22;
+  text-align: left;
+  font: 500 30px 'Poppins', sans-serif;
+}
+
+.desktop-6 .logo img {
+  max-width: 200px;
+  margin: 20px;
+  opacity: 2;
+  cursor: pointer;
+}
+
+.desktop-7 {
+  box-sizing: border-box;
+  height: 1100px;
+  position: relative;
+  overflow: hidden;
+}
+
+.popular-classes h3 {
+  color: #000000;
+  text-align: left;
+  font: 400 54px 'PT Serif', sans-serif;
+  position: absolute;
+  left: 99px;
+  top: 63px;
+  width: 395px;
+  height: 96px;
+}
+
+.popular-classes p {
+  color: #000000;
+  text-align: left;
+  font: 400 17px 'Poppins', sans-serif;
+  position: absolute;
+  left: 99px;
+  top: 151px;
+  width: 541px;
+  height: 106px;
+}
+
+.rectangle-12 {
+  background: rgba(246, 241, 241, 0.5);
+  border-radius: 30px;
+  width: 1830px;
+  height: 350px;
+  position: absolute;
+  left: 32px;
+  top: 21px;
+}
+
+.rectangle-14 {
+  background: rgba(246, 241, 241, 0.5);
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #d26b22;
+  border-width: 3px;
+  width: 220px;
+  height: 47px;
+  position: absolute;
+  left: 1510px;
+  top: 275px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.view-all-classes {
+  color: #000000;
+  text-align: start;
+  font: 400 24px 'Poppins', sans-serif;
+  position: absolute;
+  position: absolute;
+  left: 1527px;
+  top: 285px;
+  width: 262px;
+  height: 65px;
+}
+
+.card {
+  display: flex;
+  text-align: left;
+  align-items: center;
+  padding-left: 18%;
+  padding-right: 100%;
+  padding-top: 20px;
+}
+
+.card1 {
+  width: 23%;
+  border-radius: 5px;
+  position: absolute;
+  left: 70px;
+  top: 450px;
+}
+
+.card2 {
+  width: 23%;
+  border-radius: 5px;
+  position: absolute;
+  left: 505px;
+  top: 450px;
+}
+
+.card3 {
+  width: 22.1%;
+  border-radius: 5px;
+  position: absolute;
+  left: 941px;
+  top: 450px;
+}
+
+.card4 {
+  width: 23%;
+  border-radius: 5px;
+  position: absolute;
+  left: 1375px;
+  top: 450px;
+}
+
+.img {
+  border-radius: 3px;
+}
+
+.container {
+  padding: 30px 16px;
+}
+
+.container h3 {
+  color: #000000;
+  padding: 5px;
+  ;
+  text-align: left;
+  font: 30px 'PT Serif', sans-serif;
+}
+
+.container p {
+  color: #000000;
+  padding: 25px;
+  padding-inline-start: 0%;
+  text-align: start;
+  font: 350 18px 'Calibri', sans-serif;
+}
+
+.container h4 {
+  color: #e25353;
+  text-align: left;
+  font: 400 32px 'Calibri', sans-serif;
+}
+
+
+
+
+
+
+.copy p {
+  color: #333;
+  padding: 0px;
+  display: inline;
+}
+
+.fa {
+  padding-left: 0px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.fa:hover {
+
+  color: gray;
+}
+
+.fa-facebook {
+
+  color: black;
+  height: 5px;
+
+
+}
+
+.fa-copyright {
+  color: black;
+  padding-left: 0px;
+}
+
+.fa-twitter {
+
+  color: black;
+}
+
+.fa-youtube {
+
+  color: black;
+}
+
+.fa-instagram {
+
+  color: black;
+}
+
+.contact {
+  text-align: center;
+  color: #fff;
+ 
+}
+
+.title {
+  text-align: center;
+  color: #fff;
+
+  font-size: 13px;
+  display: inline-table;
+  max-width: 555px;
+
+
+}
+
+.titleText2 {
+  font-size: 55px;
+  text-align: center;
+  color: #fff;
+}
+
+.ntb1 {
+  display: inline-flex;
+  background-color: orangered;
+  color: #fff;
+  margin: 1%;
+  text-decoration: none;
+  font-size: small;
+  border-radius: 15px;
+  padding: 7px;
+  text-align: center;
+  
+
+}
+
+/* .inputBox {
+  padding-top: 10px;
+  text-align: center;
+  text-align: center;
+  padding-bottom: 20px;
+} */
+
+.contact {
+  padding-bottom: 90px;
+}
+
+.contactForm textarea {
+  border: none;
+  outline: none;
+  justify-content: center;
+}
+
+.contactForm {
+ text-align: center;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  align-items: center;
+}
+
+.a {
+  border-radius: 25px;
+  padding-right: 155px;
+  padding-bottom: 9px;
+  padding-left: 9px;
+  padding-top: 8px;
+  border: none;
+  outline: none;
+}
+
+.glyphicon {
+  display: inline-flex;
+  background-color: orangered;
+  color: #fff;
+  text-decoration: none;
+  size: small;
+  border-radius: 35px;
+  padding: 10px;
+ 
+}
+
+.contact {
+  background: url(bff-2-persom-yoga-poses_cover\ 1.jpg);
+  background-size: cover;
+  position: relative;
+  padding-top: 430px;
+  text-align: center;
+}
+
+.tnt1 {
+  display: flexbox;
+  padding-left: 150px;
+  padding-top: 20px;
+  padding-right: 190px;
+  /* padding-bottom: 20px; */
+}
+
+.Yoga {
+  padding-bottom: 15px;
+  font-size: 15px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  padding-left: 90px;
+  padding-right: 80px;
+  flex-wrap: wrap;
+  padding-top: 50px;
+  margin-top: 0px;
+}
+
+.op {
+  /* padding-right: 90px; */
+  /* display: flex; */
+  font-size: 20px;
+}
+
+.tnt3 p {
+ font-size: 10px;
+  max-width: 250px;
+}
+
+.inputBox {
+  display: flex;
+}
+
+.tnt3 a {
+  /* overflow-x: hidden; */
+  font-size: 20px;
+  padding-right: 1px;
+  display: inline-flex;
+}
+
+.dis {
+  padding-top: 20px;
+  padding-left: 85px;
+}
+
+.copy #p1 {
+  padding-right: 0px;
+  max-width: 5px;
+}
+
+.c {
+  float:  left;
+  padding-left: 45rem;
+  flex-wrap: wrap;
+}
